@@ -7,13 +7,15 @@ Text
 The inquiry from WFI requested a logo that conveys a sense of delight, while being fresh. They wanted a wordmark that uses the color white, with the intention of using it on their company website.
 ## THE PROCESS
 Keeping in mind the client's intended use of the logo, color, target audience, brand name, and business purpose, combined with the mood the client wished to convey, I arrived at these four initial concepts. My process involved building, directly into Adobe Illustrator, several potential typographies to choose from and several symbols that could compliment the wordmark in some way.​​​​​​​
-<img src="">
+<br>
+<img src="WFI-Logo-Chart.jpg">
+<br>
 Going forward, I then narrowed down the project to two finalized concepts, created several black and white variations, and then generated photo mockups of the concepts in action via PlaceIt.
 ## FINALIZED LOGO CONCEPT #1 (4 VARIATIONS)
-<img src=""><img src=""><img src="">
+<img src="WFI-Logo-Mockup-1.jpg"><img src="WFI-Logo-Mockup-2.jpg"><img src="WFI-Logo-Mockup-3.jpg"><img src="WFI-Logo-Mockup-4.jpg">
 ## Concept #1: Company initials in block letters affixed over a tilted rectangular shape resembling a board
-<img src=""><img src=""><img src="">
+<img src="WFI-Photo-Mockup-1.png"><img src="WFI-Photo-Mockup-2.png"><img src="WFI-Photo-Mockup-3.png">
 ## FINALIZED LOGO CONCEPT #2 (4 VARIATIONS)
-<img src=""><img src=""><img src="">
+<img src="WFI-Logo-Mockup-5.jpg"><img src="WFI-Logo-Mockup-6.jpg"><img src="WFI-Logo-Mockup-7.jpg"><img src="WFI-Logo-Mockup-8.jpg">
 ## Concept #2: Company initials in block letters with a game piece in place of the letter "I"
-<img src=""><img src=""><img src="">
+<img src="WFI-Photo-Mockup-4.png"><img src="WFI-Photo-Mockup-5.png"><img src="WFI-Photo-Mockup-6.png">
