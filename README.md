@@ -11,18 +11,18 @@ Keeping in mind the client's intended use of the logo, color, target audience, b
 <br>
 Going forward, I then narrowed down the project to two finalized concepts, created several black and white variations, and then generated photo mockups of the concepts in action via PlaceIt.
 ## FINALIZED LOGO CONCEPT #1 (4 VARIATIONS)
-<img src="WFI-Logo-Mockup-1.jpg" width="300" height="300"><img src="WFI-Logo-Mockup-2.jpg" width="300" height="300"><img src="WFI-Logo-Mockup-3.jpg" width="300" height="300"><img src="WFI-Logo-Mockup-4.jpg" width="300" height="300">
+<img src="WFI-Logo-Mockup-1.jpg" width="200" height="200"><img src="WFI-Logo-Mockup-2.jpg" width="200" height="200"><img src="WFI-Logo-Mockup-3.jpg" width="200" height="200"><img src="WFI-Logo-Mockup-4.jpg" width="200" height="200">
 ## Concept #1: Company initials in block letters affixed over a tilted rectangular shape resembling a board
-<img src="WFI-Photo-Mockup-1.png"; margin: 0 auto>
+<img src="WFI-Photo-Mockup-1.png">
 <br>
-<img src="WFI-Photo-Mockup-2.png"; margin: 0 auto>
+<img src="WFI-Photo-Mockup-2.png">
 <br>
-<img src="WFI-Photo-Mockup-3.png"; margin: 0 auto>
+<img src="WFI-Photo-Mockup-3.png">
 ## FINALIZED LOGO CONCEPT #2 (4 VARIATIONS)
-<img src="WFI-Logo-Mockup-5.jpg" width="300" height="300"><img src="WFI-Logo-Mockup-6.jpg" width="300" height="300"><img src="WFI-Logo-Mockup-7.jpg" width="300" height="300"><img src="WFI-Logo-Mockup-8.jpg" width="300" height="300">
+<img src="WFI-Logo-Mockup-5.jpg" width="200" height="200"><img src="WFI-Logo-Mockup-6.jpg" width="200" height="200"><img src="WFI-Logo-Mockup-7.jpg" width="200" height="200"><img src="WFI-Logo-Mockup-8.jpg" width="200" height="200">
 ## Concept #2: Company initials in block letters with a game piece in place of the letter "I"
-<img src="WFI-Photo-Mockup-4.png"; margin: 0 auto>
+<img src="WFI-Photo-Mockup-4.png">
 <br>
-<img src="WFI-Photo-Mockup-5.png"; margin: 0 auto>
+<img src="WFI-Photo-Mockup-5.png">
 <br>
-<img src="WFI-Photo-Mockup-6.png"; margin: 0 auto>
+<img src="WFI-Photo-Mockup-6.png">
