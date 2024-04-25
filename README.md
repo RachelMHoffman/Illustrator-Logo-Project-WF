@@ -10,9 +10,10 @@ Keeping in mind the client's intended use of the logo, color, target audience, b
 <img src="WFI-Logo-Chart.jpg" width="300" height="300">
 <br>
 Going forward, I then narrowed down the project to two finalized concepts, created several black and white variations, and then generated photo mockups of the concepts in action via PlaceIt.
+
 ## FINALIZED LOGO CONCEPT #1 (4 VARIATIONS)
 
-<table style="margin-left: auto; margin-right: auto">
+<table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td><img src="WFI-Logo-Mockup-1.jpg" width="200" height="200"></td>
         <td><img src="WFI-Logo-Mockup-2.jpg" width="200" height="200"></td>
