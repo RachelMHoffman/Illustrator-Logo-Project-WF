@@ -11,10 +11,16 @@ Keeping in mind the client's intended use of the logo, color, target audience, b
 <br>
 Going forward, I then narrowed down the project to two finalized concepts, created several black and white variations, and then generated photo mockups of the concepts in action via PlaceIt.
 ## FINALIZED LOGO CONCEPT #1 (4 VARIATIONS)
-<img src="WFI-Logo-Mockup-1.jpg" width="200" height="200">
-<img src="WFI-Logo-Mockup-2.jpg" width="200" height="200">
-<img src="WFI-Logo-Mockup-3.jpg" width="200" height="200">
-<img src="WFI-Logo-Mockup-4.jpg" width="200" height="200">
+
+<table>
+    <tr>
+        <td><img src="WFI-Logo-Mockup-1.jpg" width="200" height="200"></td>
+        <td><img src="WFI-Logo-Mockup-2.jpg" width="200" height="200"></td>
+        <td><img src="WFI-Logo-Mockup-3.jpg" width="200" height="200"></td>
+        <td><img src="WFI-Logo-Mockup-4.jpg" width="200" height="200"></td>
+    </tr>
+</table>
+
 ## Concept #1: Company initials in block letters affixed over a tilted rectangular shape resembling a board
 <img src="WFI-Photo-Mockup-1.png">
 <br>
