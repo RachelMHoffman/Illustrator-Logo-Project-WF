@@ -13,7 +13,7 @@ Going forward, I then narrowed down the project to two finalized concepts, creat
 
 ## FINALIZED LOGO CONCEPT #1 (4 VARIATIONS)
 
-<table style="margin-left: auto;margin-right: auto;">
+<table align="center">
     <tr>
         <td><img src="WFI-Logo-Mockup-1.jpg" width="200" height="200"></td>
         <td><img src="WFI-Logo-Mockup-2.jpg" width="200" height="200"></td>
@@ -30,7 +30,7 @@ Going forward, I then narrowed down the project to two finalized concepts, creat
 <img src="WFI-Photo-Mockup-3.png">
 ## FINALIZED LOGO CONCEPT #2 (4 VARIATIONS)
 
-<table>
+<table align="center">
     <tr>
         <td><img src="WFI-Logo-Mockup-5.jpg" width="200" height="200"></td>
         <td><img src="WFI-Logo-Mockup-6.jpg" width="200" height="200"></td>
