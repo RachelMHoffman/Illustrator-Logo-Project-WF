@@ -28,10 +28,16 @@ Going forward, I then narrowed down the project to two finalized concepts, creat
 <br>
 <img src="WFI-Photo-Mockup-3.png">
 ## FINALIZED LOGO CONCEPT #2 (4 VARIATIONS)
-<img src="WFI-Logo-Mockup-5.jpg" width="200" height="200">
-<img src="WFI-Logo-Mockup-6.jpg" width="200" height="200">
-<img src="WFI-Logo-Mockup-7.jpg" width="200" height="200">
-<img src="WFI-Logo-Mockup-8.jpg" width="200" height="200">
+
+<table>
+    <tr>
+        <td><img src="WFI-Logo-Mockup-5.jpg" width="200" height="200"></td>
+        <td><img src="WFI-Logo-Mockup-6.jpg" width="200" height="200"></td>
+        <td><img src="WFI-Logo-Mockup-7.jpg" width="200" height="200"></td>
+        <td><img src="WFI-Logo-Mockup-8.jpg" width="200" height="200"></td>
+    </tr>
+</table>
+
 ## Concept #2: Company initials in block letters with a game piece in place of the letter "I"
 <img src="WFI-Photo-Mockup-4.png">
 <br>
