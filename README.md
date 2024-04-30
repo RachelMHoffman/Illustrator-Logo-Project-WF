@@ -10,16 +10,15 @@ Keeping in mind the client's intended use of the logo, color, target audience, b
 <br>
 Going forward, I then narrowed down the project to two finalized concepts, created several black and white variations, and then generated photo mockups of the concepts in action via PlaceIt.
 <h2 style="font-size: 18px">FINALIZED LOGO CONCEPT #1 (4 VARIATIONS)</h2>
-
-<table align="center">
-    <tr>
-        <td><img src="WFI-Logo-Mockup-1.jpg" width="200" height="200"></td>
-        <td><img src="WFI-Logo-Mockup-2.jpg" width="200" height="200"></td>
-        <td><img src="WFI-Logo-Mockup-3.jpg" width="200" height="200"></td>
-        <td><img src="WFI-Logo-Mockup-4.jpg" width="200" height="200"></td>
-    </tr>
-</table>
-
+<div align="center">
+    <img src="WFI-Logo-Mockup-1.jpg" width="200" height="200">
+    &nbsp;
+    <img src="WFI-Logo-Mockup-2.jpg" width="200" height="200">
+    &nbsp;
+    <img src="WFI-Logo-Mockup-3.jpg" width="200" height="200">
+    &nbsp;
+    <img src="WFI-Logo-Mockup-4.jpg" width="200" height="200">
+</div>
 <h3 style="font-size: 16px">Concept #1: Company initials in block letters affixed over a tilted rectangular shape resembling a board</h3>
 <div align="center"><img src="WFI-Photo-Mockup-1.png"></div>
 <br>
@@ -27,16 +26,15 @@ Going forward, I then narrowed down the project to two finalized concepts, creat
 <br>
 <div align="center"><img src="WFI-Photo-Mockup-3.png"></div>
 <h2 style="font-size: 18px">FINALIZED LOGO CONCEPT #2 (4 VARIATIONS)</h2>
-
-<table align="center">
-    <tr>
-        <td><img src="WFI-Logo-Mockup-5.jpg" width="200" height="200"></td>
-        <td><img src="WFI-Logo-Mockup-6.jpg" width="200" height="200"></td>
-        <td><img src="WFI-Logo-Mockup-7.jpg" width="200" height="200"></td>
-        <td><img src="WFI-Logo-Mockup-8.jpg" width="200" height="200"></td>
-    </tr>
-</table>
-
+<div align="center">
+    <img src="WFI-Logo-Mockup-5.jpg" width="200" height="200">
+    &nbsp;
+    <img src="WFI-Logo-Mockup-6.jpg" width="200" height="200">
+    &nbsp;
+    <img src="WFI-Logo-Mockup-7.jpg" width="200" height="200">
+    &nbsp;
+    <img src="WFI-Logo-Mockup-8.jpg" width="200" height="200">
+</div>
 <h3 style="font-size: 16px">Concept #2: Company initials in block letters with a game piece in place of the letter "I"</h3>
 <div align="center"><img src="WFI-Photo-Mockup-4.png"></div>
 <br>
