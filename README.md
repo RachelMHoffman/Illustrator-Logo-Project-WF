@@ -6,7 +6,7 @@ The inquiry from WFI requested a logo that conveys a sense of delight, while bei
 <h2 style="font-size: 18px">THE PROCESS</h2>
 Keeping in mind the client's intended use of the logo, color, target audience, brand name, and business purpose, combined with the mood the client wished to convey, I arrived at these four initial concepts. My process involved building, directly into Adobe Illustrator, several potential typographies to choose from and several symbols that could compliment the wordmark in some way.​​​​​​​
 <br>
-<img src="WFI-Logo-Chart.jpg" width="300" height="300"; align="center">
+<div align="center"><img src="WFI-Logo-Chart.jpg" width="300" height="300"></div>
 <br>
 Going forward, I then narrowed down the project to two finalized concepts, created several black and white variations, and then generated photo mockups of the concepts in action via PlaceIt.
 <h2 style="font-size: 18px">FINALIZED LOGO CONCEPT #1 (4 VARIATIONS)</h2>
