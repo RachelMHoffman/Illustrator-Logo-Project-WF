@@ -1,4 +1,5 @@
-<h1 style="font-size: 20px">WESTERN FLASH - <i>Board Game Company Logo</i></h1>
+<h1><p style="font-size: 20px">WESTERN FLASH - <i>Board Game Company Logo</i></p>
+<p style="font-size: 19px">2022</p></h1>
 <h2 style="font-size: 18px">PROJECT OVERVIEW</h2>
 The following project is a logo design concept presentation for Western Flash International, a fictional company that manufactures and ships atmospheric board games right to the customer's door. Their target audience is people on a budget. (This project was created from an automatic website-generated logo design inquiry.)
 <h2 style="font-size: 18px">THE CHALLENGE</h2>
